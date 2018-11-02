@@ -7,7 +7,7 @@ class ComeOnBabe extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text>ComeOnBabe</Text>
+                <Text>Nothing in your eyes</Text>
             </View>
         );
     }
