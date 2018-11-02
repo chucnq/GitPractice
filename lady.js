@@ -3,11 +3,11 @@ import React, { Component } from 'react';
 import { View, Text, StyleSheet } from 'react-native';
 
 // create a component
-class MyClassified extends Component {
+class ComeOnBabe extends Component {
     render() {
         return (
             <View style={styles.container}>
-                <Text>MyClass</Text>
+                <Text>ComeOnBabe</Text>
             </View>
         );
     }
@@ -24,4 +24,4 @@ const styles = StyleSheet.create({
 });
 
 //make this component available to the app
-export default MyClassified;
+export default ComeOnBabe;
